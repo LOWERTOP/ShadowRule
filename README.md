@@ -1,76 +1,69 @@
-# Rules And Scripts
+# ShadowRule
 
-## 前言
+分流规则、复写规则与自动化脚本合集，覆盖 Shadowrocket、Surge、Quantumult X、Loon、Stash、Clash 与 AdGuard。
 
-各平台的分流规则、复写规则及自动化脚本。
+本仓库克隆自 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)，在原项目基础上整理与维护。规则与脚本的著作权归原作者及各位贡献者所有。
 
-> **仓库说明**：本仓库克隆自 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)，在原项目的基础上进行整理与维护。原项目的所有规则、脚本及文档的版权归原作者及各位贡献者所有。
+## 分流规则
 
-## 特别声明
+分流规则按平台分目录存放于 [rule](https://github.com/LOWERTOP/ShadowRule/tree/master/rule)，共 5320 个规则文件；每个规则目录下均有 README，内含该规则的订阅链接。
 
-1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
-2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。
-3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。
-4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。
-5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
-6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
-7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
-8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+| 平台 | 规则文件数 | 格式 |
+| --- | --- | --- |
+| Shadowrocket | 807 | .list |
+| Surge | 861 | .list |
+| Quantumult X | 689 | .list |
+| Loon | 815 | .list |
+| Clash | 2142 | .list、.yaml |
+| AdGuard | 6 | .txt |
 
-## 规则
+其中 .list 文件合计约 1050 万行（含文件头与注释）。
 
-**我们并不生产规则，我们只是开源规则的搬运工。**
+订阅地址格式如下（以 Shadowrocket 的去广告规则为例）：
 
-分流规则
+```
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/Advertising/Advertising.list
+```
 
-https://github.com/LOWERTOP/ShadowRule/tree/master/rule
+也可使用 jsDelivr 镜像：
 
-复写规则
+```
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/Advertising/Advertising.list
+```
 
-https://github.com/LOWERTOP/ShadowRule/tree/master/rewrite
+规则数据来源于互联网公开的规则项目，仓库仅做整理与备份。
 
-所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
+## 复写规则
+
+复写规则存放于 [rewrite](https://github.com/LOWERTOP/ShadowRule/tree/master/rewrite)，共 111 个文件，覆盖 Loon、Quantumult X、Shadowrocket、Stash 与 Surge。主要类别包括去广告、AllInOne、拦截 HTTP DNS、获取 Cookie、重定向、升级与知乎助手等，各目录下均有 README 与订阅链接。
 
 ## 脚本
 
-### 脚本说明
+脚本存放于 [script](https://github.com/LOWERTOP/ShadowRule/tree/master/script)，基于 MagicJS 框架编写（MagicJS 2 已停止维护）。目前保留以下脚本，其余已移至 [script/archive](https://github.com/LOWERTOP/ShadowRule/tree/master/script/archive)：
 
-| 脚本                                                         | 介绍                                 | 框架        | 维护状态 |
-| ------------------------------------------------------------ | ------------------------------------ | ----------- | -------- |
-| [什么值得买](https://github.com/LOWERTOP/ShadowRule/tree/master/script/smzdm) | 什么值得买任务和去广告               | MagicJS 2/3 | 正常     |
-| [百度贴吧](https://github.com/LOWERTOP/ShadowRule/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率 | MagicJS 3   | 正常     |
-| [开屏去广告](https://github.com/LOWERTOP/ShadowRule/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | MagicJS 3   | 正常     |
-| [慢慢买](https://github.com/LOWERTOP/ShadowRule/tree/master/script/manmanbuy) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [叮咚买菜](https://github.com/LOWERTOP/ShadowRule/tree/master/script/dingdong) | 每日自动签到                         | MagicJS 3   | 正常     |
-| [Fa米家](https://github.com/LOWERTOP/ShadowRule/tree/master/script/famijia) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [Luka](https://github.com/LOWERTOP/ShadowRule/tree/master/script/luka) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [哲也同学](https://github.com/LOWERTOP/ShadowRule/tree/master/script/zheye) | 之乎者也                             | MagicJS 3   | 正常     |
-| [Synology](https://github.com/LOWERTOP/ShadowRule/tree/master/script/synology) | 群晖Download Station资源离线下载     | MagicJS 3   | 正常     |
-| [AppleStore](https://github.com/LOWERTOP/ShadowRule/tree/master/script/applestore) | AppleStore 商品库存监控              | MagicJS 3   | 暂停     |
+- [开屏去广告](https://github.com/LOWERTOP/ShadowRule/tree/master/script/startup)：去除缓存到本地的 APP 开屏广告
+- [百度贴吧签到](https://github.com/LOWERTOP/ShadowRule/tree/master/script/tieba)：多账户自动签到，支持青龙面板
+- [Luka](https://github.com/LOWERTOP/ShadowRule/tree/master/script/luka)：每日自动签到
+- [哲也同学](https://github.com/LOWERTOP/ShadowRule/tree/master/script/zheye)：模块与脚本，详见目录 README
+- [Quora](https://github.com/LOWERTOP/ShadowRule/tree/master/script/quora)：模块与脚本，详见目录 README
+- [AppleStore 库存监控](https://github.com/LOWERTOP/ShadowRule/tree/master/script/applestore)：监控线下 Apple Store 指定商品库存（目前已暂停）
 
-#### Quantumult X Gallery
+脚本的具体配置方法见各目录 README 与 [script/README.md](https://github.com/LOWERTOP/ShadowRule/blob/master/script/README.md)。Quantumult X Gallery 订阅地址：https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/gallery.json；BoxJS 订阅地址：https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/boxjs.json。
 
-部分脚本已配置为Quantumult X Gallery。
+## 外部资源
 
-地址： https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/gallery.json
+[external](https://github.com/LOWERTOP/ShadowRule/tree/master/external) 目录收录互联网上其他开源项目的资源（按 Loon、Quantumult X、Shadowrocket、Stash、Surge 分类，包括 TestFlight 与 TikTok 解锁相关），仓库仅做整合与备份，相关问题请联系原作者。
 
-#### BoxJS
+## 说明
 
-感谢 [@chouchoui](https://github.com/chouchoui) 为本项目添加BoxJS的订阅。
+- 本仓库内容仅供学习与研究使用。
+- 规则与脚本数据来源于互联网，仓库无法保证其合法性、准确性、完整性与有效性；使用本仓库内容所造成的后果由使用者自行承担。
+- 第三方硬件、软件与本仓库没有直接或间接的关系。
 
-地址：https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/boxjs.json
-
-### 外部资源
-
-项目中资源来自互联网上其他开源项目（具体以不同目录的说明为准），这里主要进行一些整合和备份。对于此类资源，无法对使用过程中出现的任何问题进行解答，您需要联系原作者。
-
-地址：https://github.com/LOWERTOP/ShadowRule/tree/master/external
-
-# 感谢
+## 感谢
 
 本仓库源自 [blackmatrix7](https://github.com/blackmatrix7) 的 [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 项目，衷心感谢原作者 blackmatrix7 多年来对开源规则生态的持续付出，以及所有为该项目贡献过力量的朋友。
 
 以下排名不分先后
 
-[@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
-
+[@blackmatrix7](https://github.com/blackmatrix7)  [@BaileyZyp](https://github.com/BaileyZyp)  [@Mazeorz](https://github.com/Mazeorz)  [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
