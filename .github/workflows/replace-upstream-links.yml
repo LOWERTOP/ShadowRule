@@ -1,0 +1,47 @@
+name: Replace upstream links
+
+on:
+  push:
+    paths:
+      - '.github/workflows/replace-upstream-links.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Replace upstream links with this repository
+        run: |
+          grep -rlE 'github\.com/blackmatrix7/ios_rule_script|raw\.githubusercontent\.com/blackmatrix7/ios_rule_script|cdn\.jsdelivr\.net/gh/blackmatrix7/ios_rule_script' --exclude-dir=.git -I . \
+            | grep -v -e '^\./README.md$' -e '^\./\.github/workflows/replace-upstream-links\.yml$' \
+            | xargs -r -d '\n' sed -i \
+              -e 's|github.com/blackmatrix7/ios_rule_script|github.com/LOWERTOP/ShadowRule|g' \
+              -e 's|raw.githubusercontent.com/blackmatrix7/ios_rule_script|raw.githubusercontent.com/LOWERTOP/ShadowRule|g' \
+              -e 's|cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script|cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule|g'
+
+      - name: Verify no replaceable links remain
+        run: |
+          set +e
+          count=$(grep -rlE 'github\.com/blackmatrix7/ios_rule_script|raw\.githubusercontent\.com/blackmatrix7/ios_rule_script|cdn\.jsdelivr\.net/gh/blackmatrix7/ios_rule_script' --exclude-dir=.git -I . | grep -v -e '^\./README.md$' -e '^\./\.github/workflows/replace-upstream-links\.yml$' | wc -l | tr -d ' ')
+          set -e
+          echo "Files still containing upstream links: $count"
+          test "$count" = "0"
+
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+          else
+            git commit -m 'Replace upstream links with LOWERTOP/ShadowRule [skip ci]'
+            git push
+          fi
