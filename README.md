@@ -1,23 +1,22 @@
 # ShadowRule
 
-常规分流规则合集，覆盖 Shadowrocket、Surge、Quantumult X、Loon、Clash 与 AdGuard。
+常规分流规则合集，覆盖 Shadowrocket、Surge、Quantumult X、Loon 与 Clash。
 
 本仓库克隆自 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)，在原项目基础上整理与维护。规则的著作权归原作者及各位贡献者所有。
 
 ## 分流规则
 
-分流规则按平台分目录存放于 [rule](https://github.com/LOWERTOP/ShadowRule/tree/master/rule)，共 5249 个规则文件；每个规则目录下均有 README，内含该规则的订阅链接。
+分流规则按平台分目录存放于 [rule](https://github.com/LOWERTOP/ShadowRule/tree/master/rule)，共 5229 个规则文件；每个规则目录下均有 README，内含该规则的订阅链接。本仓库仅收录常规分流规则，不含需要 REJECT 动作的拦截类规则。
 
 | 平台 | 规则文件数 | 格式 |
 | --- | --- | --- |
-| Shadowrocket | 797 | .list |
-| Surge | 845 | .list |
-| Quantumult X | 685 | .list |
-| Loon | 805 | .list |
-| Clash | 2115 | .list、.yaml |
-| AdGuard | 2 | .txt |
+| Shadowrocket | 790 | .list、.conf、.sgmodule |
+| Surge | 830 | .list、.sgmodule |
+| Quantumult X | 678 | .list |
+| Loon | 796 | .list、.plugin |
+| Clash | 2135 | .list、.yaml、.txt |
 
-其中 .list 文件合计约 600 万行（含文件头与注释）。
+其中 .list 文件合计约 470 万行（含文件头与注释）。
 
 订阅地址格式如下（以 Shadowrocket 的 Apple 规则为例）：
 
