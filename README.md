@@ -6,7 +6,7 @@
 
 ## 分流规则
 
-分流规则按平台分目录存放于 [rule](https://github.com/LOWERTOP/ShadowRule/tree/master/rule)，共 5229 个规则文件；每个规则目录下均有 README，内含该规则的订阅链接。本仓库仅收录常规分流规则，不含需要 REJECT 动作的拦截类规则。
+本仓库仅推荐使用分流规则（常规分流规则，不含需要 REJECT 动作的拦截类规则）。分流规则按平台分目录存放于 [rule](https://github.com/LOWERTOP/ShadowRule/tree/master/rule)，共 5229 个规则文件；每个规则目录下均有 README，内含该规则的订阅链接。
 
 | 平台 | 规则文件数 | 格式 |
 | --- | --- | --- |
@@ -31,6 +31,10 @@ https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/Apple/A
 ```
 
 规则数据来源于互联网公开的规则项目，仓库仅做整理与备份。
+
+## 其他内容
+
+仓库内除分流规则外的其他内容（复写规则、脚本、外部资源及拦截类规则）时效性较强，不推荐使用；如需使用，请自行验证其有效性。
 
 ## 说明
 
