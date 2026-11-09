@@ -1,7 +1,7 @@
 #!name=AdvertisingScript
 #!desc=最后更新时间 2025-06-06 09:20:18
 #!author=blackmatrix7
-#!repo=https://github.com/blackmatrix7/ios_rule_script
+#!repo=https://github.com/LOWERTOP/ShadowRule
 #!category=blackmatrix7
 #!domain=5
 #!url-regex=4
@@ -24,22 +24,22 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 
 
 [Map Local]
-"^https?:\/\/103\.41\.167\.237" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/118\.89\.204\.198" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/2402:4e00:1200:ed00:0:9089:6dac:96b6" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count)" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/ab\/api\/v1\/products\/zhihu\/platforms\/ios\/config" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/ad-style-service\/request" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/api\/v4\/ecom_data\/config" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/commercial_api\/banners_v3\/app_topstory_banner" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/content-distribution-core\/bubble\/common\/settings" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/api\.zhihu\.com\/fringe\/ad" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
-"^https?:\/\/www\.zhihu\.com\/api\/v\d+\/search\/related_queries\/answer" data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
+"^https?:\/\/103\.41\.167\.237" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/118\.89\.204\.198" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/2402:4e00:1200:ed00:0:9089:6dac:96b6" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count)" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/ab\/api\/v1\/products\/zhihu\/platforms\/ios\/config" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/ad-style-service\/request" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/api\/v4\/ecom_data\/config" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/commercial_api\/banners_v3\/app_topstory_banner" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/content-distribution-core\/bubble\/common\/settings" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/api\.zhihu\.com\/fringe\/ad" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
+"^https?:\/\/www\.zhihu\.com\/api\/v\d+\/search\/related_queries\/answer" data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/blank/blank_dict.json"
 [Script]
 哲也_解锁关键词屏蔽 = type=http-request,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/api\.zhihu\.com\/feed-root\/block"
-BiliBili_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/list",requires-body=1
-Fa米家_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/start\/ad",requires-body=1
-京东_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/hd\.mina\.mi\.com\/splashscreen\/alert",requires-body=1
+BiliBili_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/list",requires-body=1
+Fa米家_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/start\/ad",requires-body=1
+京东_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/hd\.mina\.mi\.com\/splashscreen\/alert",requires-body=1
 哲也_优化软件配置1 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/m-cloud\.zhihu\.com\/api\/cloud\/config\/all\?",requires-body=1
 哲也_优化软件配置2 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/appcloud2\.zhihu\.com\/v\d+\/config",requires-body=1
 哲也_优化软件配置3 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/api\.zhihu\.com\/feed\/render\/revisit\/current_reading",requires-body=1
@@ -57,10 +57,10 @@ Fa米家_开屏去广告 = type=http-response,script-path=https://raw.githubuser
 哲也_评论优化 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/api\.zhihu\.com\/(comment_v5\/)?(answers|comments?|articles|pins)\/\d+\/(root_|child_)?comments?",requires-body=1
 哲也_评论摘要优化 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/www\.zhihu\.com\/api\/v4\/comment_v5\/answers\/\d+\/abstract_comment\?",requires-body=1
 哲也_预置关键词优化 = type=http-response,script-path=https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js,pattern="^https?:\/\/api\.zhihu\.com\/search\/preset_words\?",requires-body=1
-嘀嗒出行_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?",requires-body=1
-多点_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/cmsapi\.dmall\.com\/app\/home\/homepageStartUpPic",requires-body=1
-爱奇艺_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/(t7z|kjp)\.cupid\.iqiyi\.com\/mixer\?",requires-body=1
-美团外卖_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo?",requires-body=1
-联享家_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js,pattern="^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg",requires-body=1
+嘀嗒出行_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?",requires-body=1
+多点_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/cmsapi\.dmall\.com\/app\/home\/homepageStartUpPic",requires-body=1
+爱奇艺_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/(t7z|kjp)\.cupid\.iqiyi\.com\/mixer\?",requires-body=1
+美团外卖_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo?",requires-body=1
+联享家_开屏去广告 = type=http-response,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js,pattern="^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg",requires-body=1
 [MITM]
 hostname = %APPEND% *.cupid.iqiyi.com,103.41.167.226,103.41.167.234,103.41.167.235,103.41.167.236,103.41.167.237,118.89.204.198,2402:4e00:1200:ed00:0:9089:6dac:96b6,api.m.jd.com,api.zhihu.com,app.bilibili.com,appcloud2.zhihu.com,capis*.didapinche.com,cmsapi.dmall.com,fmapp.chinafamilymart.com.cn,hd.mina.mi.com,m-cloud.zhihu.com,mi.gdt.qq.com,wmapi.meituan.com,www.zhihu.com,zhuanlan.zhihu.com

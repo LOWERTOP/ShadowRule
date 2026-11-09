@@ -36,27 +36,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/QuantumultX/AdvertisingLite/AdvertisingLite.list
 
 ## 子规则/排除规则
 
@@ -75,8 +75,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 
 

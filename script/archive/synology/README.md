@@ -64,7 +64,7 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/163study.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/163study.sgmodule
 ```
 
 #### Loon
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/syn
 使用插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/163study.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/163study.lnplugin
 ```
 
 #### Quantumult X
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/syn
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/163study.qxrewrite, tag=网易云课堂_离线下载课程内容, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/163study.qxrewrite, tag=网易云课堂_离线下载课程内容, enabled=true
 ```
 
 ## Twitter资源下载
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/syn
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/twitter.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/twitter.sgmodule
 ```
 
 #### Loon
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/syn
 使用插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/twitter.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/twitter.lnplugin
 ```
 
 #### Quantumult X
@@ -118,6 +118,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/syn
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/twitter.qxrewrite, tag=Twitter_离线下载收藏内容, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/twitter.qxrewrite, tag=Twitter_离线下载收藏内容, enabled=true
 ```
 

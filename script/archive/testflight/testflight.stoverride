@@ -49,6 +49,6 @@ http:
 
 script-providers:
   testflight.js:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.js
     interval: 86400
 

@@ -1,7 +1,7 @@
 name: 获取签到脚本Cookie
 desc: 最后更新时间 2025-07-12 02:11:47
 # author: blackmatrix7
-# repo: https://github.com/blackmatrix7/ios_rule_script
+# repo: https://github.com/LOWERTOP/ShadowRule
 # http-request-script: 9
 # mitm: 7
 # total: 16
@@ -87,19 +87,19 @@ http:
 
 script-providers:
   dingdong_checkin.js_03462fc2:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.js
     interval: 86400
   famijia_checkin.js_515b8868:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/famijia/famijia_checkin.js
     interval: 86400
   luka_signin.js_b550a422:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/luka/luka_signin.js
     interval: 86400
   manmanbuy_checkin.js_d03e4443:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/manmanbuy/manmanbuy_checkin.js
     interval: 86400
   smzdm_daily.js_7fcabffe:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.js
     interval: 86400
   tieba_min.js_ef380bcb:
     url: https://gist.githubusercontent.com/blackmatrix7/cebabe7a385fc6a9ad32e2f7a35851dc/raw/1363d8720c92267d0a97fcd8eb98673760891fc9/tieba_min.js

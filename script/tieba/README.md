@@ -12,17 +12,17 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_signin.sgmodule
 ```
 
 ### Quantumult X
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.qxrewrite, tag=贴吧_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_signin.qxrewrite, tag=贴吧_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-30 10 * * *  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.js, tag=贴吧_每日签到, enabled=true
+30 10 * * *  https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_signin.js, tag=贴吧_每日签到, enabled=true
 ```
 
 ### Loon
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tie
 安装插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_checkin.lnplugin
 ```
 
 ### 青龙面板
@@ -38,14 +38,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tie
 订阅单文件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.js
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_signin.js
 ```
 
 ## 获取Cookie
 
 关闭贴吧后台，重新进入一次贴吧即可。
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/images/03.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/images/03.jpg)
 
 ## 多账户
 
@@ -67,11 +67,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tie
 
 全部签到成功时：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/images/01.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/images/01.jpg)
 
 部分贴吧签到失败时：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/images/02.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/images/02.jpg)
 
 ## 脚本变量
 

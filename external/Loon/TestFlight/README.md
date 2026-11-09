@@ -27,27 +27,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Loon/TestFlight/TestFlight.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/external/Loon/TestFlight/TestFlight.plugin
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/external/Loon/TestFlight/TestFlight.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/external/Loon/TestFlight/TestFlight.plugin
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Loon/TestFlight/TestFlight.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/external/Loon/TestFlight/TestFlight.plugin
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/external/Loon/TestFlight/TestFlight.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/external/Loon/TestFlight/TestFlight.plugin
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/external/Loon/TestFlight/TestFlight.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/external/Loon/TestFlight/TestFlight.plugin
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/external/Loon/TestFlight/TestFlight.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/external/Loon/TestFlight/TestFlight.plugin
 
 ## 子规则
 

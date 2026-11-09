@@ -1,9 +1,9 @@
 #!name= 百度贴吧
 #!desc= 百度贴吧每日签到
-#!openUrl=https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba
+#!openUrl=https://github.com/LOWERTOP/ShadowRule/tree/master/script/tieba
 #!author= blackmatrix7
-#!homepage= https://github.com/blackmatrix7/ios_rule_script
-#!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba.png
+#!homepage= https://github.com/LOWERTOP/ShadowRule
+#!icon= https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba.png
 
 [Script]
 http-request ^https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login script-path=https://gist.githubusercontent.com/blackmatrix7/cebabe7a385fc6a9ad32e2f7a35851dc/raw/1363d8720c92267d0a97fcd8eb98673760891fc9/tieba_min.js,tag=贴吧_获取Cookie1

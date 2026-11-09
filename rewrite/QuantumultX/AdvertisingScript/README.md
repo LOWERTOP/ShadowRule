@@ -35,39 +35,39 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.list
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 ## 子规则
 
@@ -78,8 +78,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《脚本去广告》的数据来自以下链接，如与本项目的《脚本去广告》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/zheye/zheye.lnplugin
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.lnplugin
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

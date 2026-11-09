@@ -1,9 +1,9 @@
 #!name= SafeRedirect
 #!desc= 最后更新时间 2025-06-06 09:20:18
-#!openUrl= https://github.com/blackmatrix7/ios_rule_script
+#!openUrl= https://github.com/LOWERTOP/ShadowRule
 #!author= blackmatrix7
-#!homepage= https://github.com/blackmatrix7/ios_rule_script
-#!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
+#!homepage= https://github.com/LOWERTOP/ShadowRule
+#!icon= https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/avatar.jpg
 #!redirect= 60
 #!mitm= 122
 #!total= 182

@@ -31,27 +31,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/Advertising/Advertising.plugin
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Loon/Advertising/Advertising.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Loon/Advertising/Advertising.plugin
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/Advertising/Advertising.plugin
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/Advertising/Advertising.plugin
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Loon/Advertising/Advertising.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Loon/Advertising/Advertising.plugin
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Advertising/Advertising.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/Advertising/Advertising.plugin
 
 ## 子规则
 
@@ -62,8 +62,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《复写去广告》的数据来自以下链接，如与本项目的《复写去广告》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet

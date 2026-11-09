@@ -13,24 +13,24 @@
 ## 模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.sgmodule
 ```
 
 ## 插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.lnplugin
 ```
 
 ## 重写
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.snippet
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.snippet
 ```
 
 ## 覆写
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.stoverride
 ```
 

@@ -99,6 +99,6 @@ http:
 
 script-providers:
   startup.js:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js
     interval: 86400
 

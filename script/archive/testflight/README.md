@@ -32,25 +32,25 @@ TestFlight多账户共存与自动加入脚本，主要满足个人需要两个�
 **Surge**
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.sgmodule
 ```
 
 **Quantumult X**
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.snippet
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.snippet
 ```
 
 **Loon**
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.lnplugin
 ```
 
 **Stash**
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.stoverride
 ```
 
 ## 入门
@@ -75,21 +75,21 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tes
 
 ```ini
 [Script]
-TestFlight_自动加入 = type=cron,cronexp=0/5 * * * * *,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.js
+TestFlight_自动加入 = type=cron,cronexp=0/5 * * * * *,script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.js
 ```
 
 #### **Quantumult X**
 
 ```ini
 [task_local]
-0/5 * * * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.js, tag=TestFlight_自动加入, enabled=true
+0/5 * * * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.js, tag=TestFlight_自动加入, enabled=true
 ```
 
 #### **Loon**
 
 ```ini
 [Script]
-cron "0/5 * * * * *" script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/testflight.js,timeout=5,TestFlight_自动加入
+cron "0/5 * * * * *" script-path=https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/testflight.js,timeout=5,TestFlight_自动加入
 ```
 
 #### **Stash**
@@ -141,7 +141,7 @@ cron:
 
 #### 同步至青龙面板
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/script#readme
+https://github.com/LOWERTOP/ShadowRule/tree/master/script#readme
 
 根据上述文档，配置青龙面板，然后在BoxJS中打开同步至青龙面板的开关。配置完成后，每次打开TestFlight，登录信息变化时都会同步到青龙面板中。同时，在打开已满员的Beta链接时，也会将App ID同步至青龙面板。
 

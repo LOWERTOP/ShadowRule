@@ -43,27 +43,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/Game/Game.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Game/Game.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Surge/Game/Game.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/Game/Game.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/Game/Game.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Game/Game.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Surge/Game/Game.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Game/Game.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/Game/Game.list
 
 ## 子规则/排除规则
 
@@ -85,9 +85,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Blizzard.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/Rockstar/Rockstar.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Rockstar.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/PlayStation/PlayStation.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/PlayStation.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/Epic.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Epicgames.list

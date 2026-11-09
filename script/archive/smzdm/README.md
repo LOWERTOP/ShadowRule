@@ -30,7 +30,7 @@
 ##### **安装模块**
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.sgmodule
 ```
 
 ### Loon
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 安装插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.lnplugin
 ```
 
 ### Quantumult X
@@ -47,10 +47,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.snippet, tag=什么值得买_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.snippet, tag=什么值得买_获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-5 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js, tag=什么值得买每日签到
+5 10 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.js, tag=什么值得买每日签到
 ```
 
 ## 获取Cookies
@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 使用模块
 
 ```ini
- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+ https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_remove_ads.sgmodule
 ```
 
 ### Loon
@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 使用插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_remove_ads.lnplugin
 ```
 
 ### Quantumult X
@@ -109,6 +109,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smz
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite, tag=什么值得买_去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_remove_ads.qxrewrite, tag=什么值得买_去广告, update-interval=86400, opt-parser=false, enabled=true
 ```
 

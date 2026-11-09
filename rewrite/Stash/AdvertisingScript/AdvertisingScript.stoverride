@@ -1,7 +1,7 @@
 name: 脚本去广告
 desc: 最后更新时间 2025-06-06 09:20:18
 # author: blackmatrix7
-# repo: https://github.com/blackmatrix7/ios_rule_script
+# repo: https://github.com/LOWERTOP/ShadowRule
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
@@ -243,7 +243,7 @@ http:
 
 script-providers:
   startup.js_5686edbb:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js
+    url: https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.js
     interval: 86400
   zheye.min.js_8a3926f1:
     url: https://gist.githubusercontent.com/blackmatrix7/f5f780d0f56b319b6ad9848fd080bb18/raw/zheye.min.js

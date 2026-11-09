@@ -57,7 +57,7 @@ MagicJS 3 增加“青龙面板模块”，可以将所使用的变量，直接�
 
 支持数据同步到青龙面板的脚本，在BoxJS中都会有同步开关，请先将其打开。
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/images/05.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/images/05.jpg)
 
 如果没有青龙面板、访问缓慢，甚至无法访问，不建议在平时打开此功能，以免由于网络问题造成客户端加载数据缓慢。
 
@@ -65,7 +65,7 @@ MagicJS 3 增加“青龙面板模块”，可以将所使用的变量，直接�
 
 使用前，需要在BoxJS中配置青龙面板的链接。
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/images/04.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/images/04.jpg)
 
 配置完成后，如果访问没有问题，每次获取到的Cookies，都会同步到青龙面板。
 

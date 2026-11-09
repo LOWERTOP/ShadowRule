@@ -33,27 +33,27 @@ iOS系统升级规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/SystemOTA/SystemOTA.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/SystemOTA/SystemOTA.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Surge/SystemOTA/SystemOTA.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/SystemOTA/SystemOTA.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/SystemOTA/SystemOTA.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/SystemOTA/SystemOTA.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/SystemOTA/SystemOTA.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Surge/SystemOTA/SystemOTA.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/SystemOTA/SystemOTA.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/SystemOTA/SystemOTA.list
 
 ## 子规则/排除规则
 
@@ -64,7 +64,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《iOS系统升级》的数据来自以下链接，如与本项目的《iOS系统升级》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/SystemOTA/SystemOTA.list
 - https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
 - https://raw.githubusercontent.com/LuzMasonj/Quantumult/master/QuantumultX/Filter/BlockiOSServices.conf
 

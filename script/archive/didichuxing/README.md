@@ -17,7 +17,7 @@
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/didichuxing/didi_checkin.js
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/didichuxing/didi_checkin.js
 
 ### Loon
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obs
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/didichuxing/didi_checkin.lnscript, tag=滴滴出行_每日签到, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/didichuxing/didi_checkin.lnscript, tag=滴滴出行_每日签到, enabled=true
 ```
 
 ### Quantumult X
@@ -34,10 +34,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obs
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/didichuxing/didi_checkin.qxrewrite, tag=滴滴出行_获取Cookie, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/didichuxing/didi_checkin.qxrewrite, tag=滴滴出行_获取Cookie, enabled=true
 
 [task_local]
-00 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/didichuxing/didi_checkin.js, tag=滴滴出行_每日签到, enabled=true
+00 9 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/didichuxing/didi_checkin.js, tag=滴滴出行_每日签到, enabled=true
 ```
 
 ## 获取Cookie
@@ -60,7 +60,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

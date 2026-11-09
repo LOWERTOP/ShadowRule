@@ -12,7 +12,7 @@
 ## 规则说明
 知乎助手，Shadowrocket与Stash由规则生成器转换。
 
-详细的使用配置，请见 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
+详细的使用配置，请见 https://github.com/LOWERTOP/ShadowRule/tree/master/script/zhihu
 
 ## 规则统计
 
@@ -29,27 +29,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Stash/ZhihuAssistant/ZhihuAssistantLite/zhihu_lite.stoverride
 
 ## 子规则
 

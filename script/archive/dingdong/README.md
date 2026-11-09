@@ -9,7 +9,7 @@
 安装模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.sgmodule
 ```
 
 ### Loon
@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/din
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.lnplugin
 ```
 
 ### Quantumult X
@@ -27,10 +27,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/din
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.qxrewrite, tag=叮咚买菜_获取Cookie, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.qxrewrite, tag=叮咚买菜_获取Cookie, enabled=true
 
 [task_local]
-20 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.js, tag=叮咚买菜_每日签到, enabled=true
+20 10 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.js, tag=叮咚买菜_每日签到, enabled=true
 ```
 
 ## 获取Cookie

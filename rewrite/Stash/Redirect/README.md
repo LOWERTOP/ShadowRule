@@ -35,27 +35,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/Redirect/Redirect.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Stash/Redirect/Redirect.stoverride
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Stash/Redirect/Redirect.stoverride
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Stash/Redirect/Redirect.stoverride
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Stash/Redirect/Redirect.stoverride
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Stash/Redirect/Redirect.stoverride
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Stash/Redirect/Redirect.stoverride
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Stash/Redirect/Redirect.stoverride
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Stash/Redirect/Redirect.stoverride
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Stash/Redirect/Redirect.stoverride
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Stash/Redirect/Redirect.stoverride
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Stash/Redirect/Redirect.stoverride
 
 ## 子规则
 

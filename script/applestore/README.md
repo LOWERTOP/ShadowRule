@@ -28,7 +28,7 @@ https://www.apple.com.cn/shop/buy-iphone/iphone-14-pro
 
 如下图：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/images/01.png)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/images/01.png)
 
 ##### Apple Watch 系列
 
@@ -107,11 +107,11 @@ MLDH3CH/A##小黑紫;MNHT3CH/A##Apple Watch Ultra;Z0YQ#MNNQ3CH/A,MPLE3FE/A#Apple
 
 如果搞不定的话，在Apple官网选择查看取货情况，把下面的字保存下来，每个间隔一个空格。
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/images/03.png)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/images/03.png)
 
 ## BoxJS填写效果
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/images/04.png)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/images/04.png)
 
 ## 进阶问题
 
@@ -152,7 +152,7 @@ MLDH3CH/A##小黑紫;MNHT3CH/A##Apple Watch Ultra;Z0YQ#MNNQ3CH/A,MPLE3FE/A#Apple
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/applestore.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/applestore.sgmodule
 ```
 
 ### Loon
@@ -160,7 +160,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/app
 使用插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/applestore.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/applestore.lnplugin
 ```
 
 ### Quantumult X
@@ -169,14 +169,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/app
 
 ```ini
 [task_local]
-0/5 * 6-23 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/applestore.js, tag=AppleStore_商品库存监控, enabled=true
+0/5 * 6-23 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/applestore.js, tag=AppleStore_商品库存监控, enabled=true
 ```
 
 ## 变量说明
 
 NodeJS(含青龙面板)，请根据下表配置magic.json的变量。
 
-更新详细的配置说明，请访问：https://github.com/blackmatrix7/ios_rule_script/blob/master/script/README.md。
+更新详细的配置说明，请访问：https://github.com/LOWERTOP/ShadowRule/blob/master/script/README.md。
 
 | 变量                               | 类型   | 说明                                                         |
 | ---------------------------------- | ------ | ------------------------------------------------------------ |

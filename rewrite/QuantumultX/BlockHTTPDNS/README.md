@@ -34,39 +34,39 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.list
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/QuantumultX/BlockHTTPDNS/BlockHTTPDNS.conf
 
 ## 子规则
 

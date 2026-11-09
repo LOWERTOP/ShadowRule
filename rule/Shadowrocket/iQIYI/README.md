@@ -40,27 +40,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/iQIYI/iQIYI.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/iQIYI/iQIYI.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/iQIYI/iQIYI.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/iQIYI/iQIYI.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/iQIYI/iQIYI.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/iQIYI/iQIYI.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/iQIYI/iQIYI.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/iQIYI/iQIYI.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Shadowrocket/iQIYI/iQIYI.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Shadowrocket/iQIYI/iQIYI.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/iQIYI/iQIYI.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/iQIYI/iQIYI.list
 
 ## 子规则/排除规则
 

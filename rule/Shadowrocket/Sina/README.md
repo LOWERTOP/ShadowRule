@@ -33,27 +33,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/Sina/Sina.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/Sina/Sina.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/Sina/Sina.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/Sina/Sina.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Sina/Sina.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/Sina/Sina.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Shadowrocket/Sina/Sina.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Shadowrocket/Sina/Sina.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Sina/Sina.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/Sina/Sina.list
 
 ## 子规则/排除规则
 
@@ -68,7 +68,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《新浪》的数据来自以下链接，如与本项目的《新浪》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sina.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/Weibo/Weibo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Sina.list
 
 

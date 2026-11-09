@@ -1,7 +1,7 @@
 #!name=哲也同学
 #!desc=分享你刚编的故事
 #!author=blackmatrix7
-#!homepage=https://github.com/blackmatrix7/ios_rule_script
+#!homepage=https://github.com/LOWERTOP/ShadowRule
 #!category=blackmatrix7
 
 [Rule]
@@ -36,19 +36,19 @@ URL-REGEX,^https?:\/\/api\.zhihu\.com\/bazaar\/vip_tab\/header,REJECT
 
 [Map Local]
 # 去除消息通知角标
-^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count) data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count) data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 去除推荐页顶部广告
-^https?:\/\/api\.zhihu\.com\/root\/window data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/root\/window data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 拦截应用内弹窗
-^https?:\/\/api\.zhihu\.com\/me\/guides data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/me\/guides data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 去除关注页最常访问
-^https?:\/\/api\.zhihu\.com\/moments\/recent data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/moments\/recent data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 拦截推荐页顶部广告
-^https?:\/\/api\.zhihu\.com\/api\/v4\/ecom_data\/config data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/api\/v4\/ecom_data\/config data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 疑似推荐页内容更新红点
-^https?:\/\/api\.zhihu\.com\/feed\/render\/revisit\/tag_config data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/feed\/render\/revisit\/tag_config data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 # 部分推荐页Tab的Banner
-^https?:\/\/api\.zhihu\.com\/content-distribution-core\/sections\/ data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/blank/blank_dict.json"
+^https?:\/\/api\.zhihu\.com\/content-distribution-core\/sections\/ data="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/refs/heads/master/blank/blank_dict.json"
 
 [Script]
 # 获取用户信息 - 隔离用户数据，开启本地会员等

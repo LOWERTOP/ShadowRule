@@ -13,24 +13,24 @@
 使用模块，地址
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/unicom_signin.sgmodule
 ```
 
 ### Quantumult X
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.qxrewrite, tag=联通_获取cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/unicom_signin.qxrewrite, tag=联通_获取cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
-20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, enabled=true
+20 0 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, enabled=true
 ```
 
 ### Loon
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.lnscript, tag=联通_签到与抽奖, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/unicom_signin.lnscript, tag=联通_签到与抽奖, enabled=true
 ```
 
 ## 获取Cookie
@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/100
 
 ## 签到效果图
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/images/01.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/images/01.jpg)
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/images/02.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/10010/images/02.jpg)
 
 ## 统一推送
 
@@ -49,7 +49,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

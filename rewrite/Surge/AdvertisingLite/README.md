@@ -39,39 +39,39 @@ AdvertisingLite 不直接抽取数据源中MITM的hostname，仅用正则推导�
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
 
 ## 子规则
 
@@ -82,11 +82,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《复写去广告(严格版)》的数据来自以下链接，如与本项目的《复写去广告(严格版)》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/AdvertisingLite/AdvertisingLite.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

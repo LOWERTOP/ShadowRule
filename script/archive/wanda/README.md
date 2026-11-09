@@ -15,7 +15,7 @@
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/wanda/wanda_checkin.sgmodule
 
 ### Loon
 
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wan
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.lnscript, tag=万达电影_每日签到, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/wanda/wanda_checkin.lnscript, tag=万达电影_每日签到, enabled=true
 ```
 
 ### Quantumult X
@@ -32,10 +32,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wan
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.qxrewrite, tag=万达电影_获取Cookie, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/wanda/wanda_checkin.qxrewrite, tag=万达电影_获取Cookie, enabled=true
 
 [task_local]
-20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影_每日签到, enabled=true
+20 0 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/wanda/wanda_checkin.js, tag=万达电影_每日签到, enabled=true
 ```
 
 ## 获取ActivityCode
@@ -54,7 +54,7 @@ MagicJS利用Bark，实现了跨设备的统一推送能力，将多个iOS设备
 
 执行效果图，以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/images/bark.jpg)
 
 ### 开启统一推送
 

@@ -37,20 +37,20 @@
 
 #### 规则链接
 **实时版**
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
 
 **实时版CDN**
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@masterE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
 
 **稳定版**
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
 
 **稳定版CDN**
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@releaseE:\Projects\RuleGenerator\temp\Github\rule/Surge/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins_Resolve.list
 
 ## 子规则/排除规则
 

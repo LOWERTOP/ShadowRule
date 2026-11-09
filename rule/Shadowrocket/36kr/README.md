@@ -32,27 +32,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/36kr/36kr.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/36kr/36kr.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/36kr/36kr.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/36kr/36kr.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/36kr/36kr.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/36kr/36kr.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/36kr/36kr.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/36kr/36kr.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Shadowrocket/36kr/36kr.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Shadowrocket/36kr/36kr.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/36kr/36kr.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/36kr/36kr.list
 
 ## 子规则/排除规则
 

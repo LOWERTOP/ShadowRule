@@ -1,7 +1,7 @@
 #!name=SafeRedirect
 #!desc=最后更新时间 2025-06-06 09:20:18
 #!author=blackmatrix7
-#!repo=https://github.com/blackmatrix7/ios_rule_script
+#!repo=https://github.com/LOWERTOP/ShadowRule
 #!redirect=60
 #!mitm=122
 #!total=182

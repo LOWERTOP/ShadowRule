@@ -25,7 +25,7 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/eleme_daily.sgmodule
 ```
 
 ### Loon
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/ele
 使用插件
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.lnplugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/eleme_daily.lnplugin
 ```
 
 ### Quantumult X
@@ -42,10 +42,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/ele
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.qxrewrite, tag=饿了么_获取Cookie, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/eleme_daily.qxrewrite, tag=饿了么_获取Cookie, enabled=true
 
 [task_local]
-05 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, enabled=true
+05 10 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, enabled=true
 ```
 
 ## 获取数据
@@ -68,11 +68,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/ele
 
 以饿了么为例：
 
-![](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark.jpg)
+![](https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/images/bark.jpg)
 
 在BoxJS中填写Bark推送链接即可。
 
-<img src="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/images/bark_conf.jpg" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/eleme/images/bark_conf.jpg" style="zoom: 33%;" />
 
 ## 多账户
 

@@ -42,7 +42,7 @@
 使用模块
 
 ```ini
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/bilibili/bilibili_plus.sgmodule
 ```
 
 #### Quantumult X
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bil
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.qxrewrite, tag=哔哩哔哩_去广告, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/bilibili/bilibili_plus.qxrewrite, tag=哔哩哔哩_去广告, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 ### Loon
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bil
 
 ```ini
 [Plugin]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.lnplugin, tag=哔哩哔哩_去广告, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/bilibili/bilibili_plus.lnplugin, tag=哔哩哔哩_去广告, enabled=true
 ```
 
 ## 签到

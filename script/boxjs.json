@@ -3,7 +3,7 @@
   "name": "blackmatrix7 应用订阅",
   "author": "@blackmatrix7",
   "icon": "https://avatars.githubusercontent.com/u/27717518?v=4",
-  "repo": "https://github.com/blackmatrix7/ios_rule_script",
+  "repo": "https://github.com/LOWERTOP/ShadowRule",
   "apps": [
     {
       "id": "blackmatrix7.magicjs",
@@ -47,10 +47,10 @@
         }
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/bilibili",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/logo_dark.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/logo.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/magicjs/images/logo_dark.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/magicjs/images/logo.png"
       ]
     },
     {
@@ -124,10 +124,10 @@
         }
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/bilibili",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/qinglong_dark.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/magicjs/images/qinglong.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/magicjs/images/qinglong_dark.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/magicjs/images/qinglong.png"
       ]
     },
     {
@@ -146,10 +146,10 @@
         }
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/bilibili",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/dark/bark.jpg",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/color/bark.jpg"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/icon/matrix/dark/bark.jpg",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/icon/matrix/color/bark.jpg"
       ]
     },
     {
@@ -163,13 +163,13 @@
         "zheye_server_url"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zheye",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/zheye",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/zheye/zheye.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/zheye/zheye.png"
       ],
       "descs_html": [
-        "<h4 align=\"left\">配置说明查看<a href=\"https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zheye#readme\">README.md</a></h4>"
+        "<h4 align=\"left\">配置说明查看<a href=\"https://github.com/LOWERTOP/ShadowRule/tree/master/script/zheye#readme\">README.md</a></h4>"
       ],
       "scripts": [
       ],
@@ -349,12 +349,12 @@
         "dingdongmaicai_sync_qinglong"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/dingdong",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong.png"
       ],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.js",
+      "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/dingdong/dingdong_checkin.js",
       "settings": [
         {
           "id": "dingdongmaicai_sync_qinglong",
@@ -374,24 +374,24 @@
         "famijia_black_box"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/famijia",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/famijia/famijia.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/famijia/famijia.png"
       ],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.js"
+      "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/famijia/famijia_checkin.js"
     },
     {
       "id": "blackmatrix7.luka",
       "name": "Luka阅读养成",
       "keys": ["luka_checkin_cookie", "luka_signin_auth"],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/luka",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/luka",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/luka/luka.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/luka/luka.png"
       ],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/luka/luka_signin.js"
+      "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/luka/luka_signin.js"
     },
     {
       "id": "blackmatrix7.manmanbuy",
@@ -403,12 +403,12 @@
         "manmanbuy_deviceid"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/manmanbuy",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanmai.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanmai.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/manmanbuy/manmanmai.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/manmanbuy/manmanmai.png"
       ],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js"
+      "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/manmanbuy/manmanbuy_checkin.js"
     },
     {
       "id": "blackmatrix7.smzdm",
@@ -423,7 +423,7 @@
         "smzdm_sync_qinglong"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/smzdm",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/smzdm.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png"
@@ -431,7 +431,7 @@
       "scripts": [
         {
           "name": "执行每日签到与任务",
-          "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js"
+          "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/smzdm/smzdm_daily.js"
         }
       ],
       "settings": [
@@ -477,12 +477,12 @@
       "name": "百度贴吧",
       "keys": ["tieba_signin_cookie", "tieba_sync_qinglong"],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/tieba",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/tieba.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png"
       ],
-      "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.js",
+      "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/tieba/tieba_signin.js",
       "settings": [
         {
           "id": "tieba_sync_qinglong",
@@ -545,15 +545,15 @@
         }
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/synology",
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/icon/synology_dark.jpg",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/icon/synology.jpg"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/icon/synology_dark.jpg",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/icon/synology.jpg"
       ],
       "scripts": [
         {
           "name": "登录Synology",
-          "script": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/synology/downloadstation.js"
+          "script": "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/synology/downloadstation.js"
         }
       ]
     },
@@ -567,7 +567,7 @@
         "applestore_settings_notify_soldout"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/applestore",
       "settings": [
         {
           "id": "applestore_goods_model",
@@ -596,8 +596,8 @@
         }
       ],
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore_dark.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/applestore/icon/applestore.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/icon/applestore_dark.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/applestore/icon/applestore.png"
       ]
     },
     {
@@ -618,7 +618,7 @@
         "tf_check_session_time_diff"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/testflight",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/testflight",
       "settings": [
         {
           "id": "tf_sync_qinglong",
@@ -720,8 +720,8 @@
         }
       ],
       "icons": [
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/icon/testflight.png",
-        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/testflight/icon/testflight.png"
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/icon/testflight.png",
+        "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/testflight/icon/testflight.png"
       ]
     },
     {
@@ -731,10 +731,10 @@
         "find_my_device_discovery_id"
       ],
       "author": "@blackmatrix7",
-      "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/findmy",
+      "repo": "https://github.com/LOWERTOP/ShadowRule/tree/master/script/findmy",
       "icons": [
-          "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/findmy/icon/findmy_gray.jpg",
-          "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/findmy/icon/findmy.jpg"
+          "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/findmy/icon/findmy_gray.jpg",
+          "https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/findmy/icon/findmy.jpg"
       ],
       "settings": [
           {

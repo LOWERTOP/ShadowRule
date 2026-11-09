@@ -29,27 +29,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/Upgrade/Upgrade.plugin
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Loon/Upgrade/Upgrade.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Loon/Upgrade/Upgrade.plugin
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/Upgrade/Upgrade.plugin
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Upgrade/Upgrade.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/Upgrade/Upgrade.plugin
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Loon/Upgrade/Upgrade.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Loon/Upgrade/Upgrade.plugin
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Upgrade/Upgrade.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/Upgrade/Upgrade.plugin
 
 ## 子规则
 
@@ -60,7 +60,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《屏蔽APP更新检查》的数据来自以下链接，如与本项目的《屏蔽APP更新检查》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

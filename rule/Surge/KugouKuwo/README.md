@@ -38,27 +38,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/KugouKuwo/KugouKuwo.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/KugouKuwo/KugouKuwo.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Surge/KugouKuwo/KugouKuwo.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/KugouKuwo/KugouKuwo.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Surge/KugouKuwo/KugouKuwo.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KugouKuwo/KugouKuwo.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/KugouKuwo/KugouKuwo.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/KugouKuwo/KugouKuwo.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Surge/KugouKuwo/KugouKuwo.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KugouKuwo/KugouKuwo.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Surge/KugouKuwo/KugouKuwo.list
 
 ## 子规则/排除规则
 

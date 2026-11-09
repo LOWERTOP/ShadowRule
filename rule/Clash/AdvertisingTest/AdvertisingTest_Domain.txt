@@ -1,6 +1,6 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# REPO: https://github.com/LOWERTOP/ShadowRule
 # UPDATED: 2026-10-28 05:40:48
 # DOMAIN: 13158
 # DOMAIN-KEYWORD: 280

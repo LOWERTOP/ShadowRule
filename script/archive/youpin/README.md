@@ -8,7 +8,7 @@
 
 使用模块
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/youpin/youpin_checkin.sgmodule
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/youpin/youpin_checkin.sgmodule
 
 ### Loon
 
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obs
 
 ```ini
 [Remote Script]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/youpin/youpin_checkin.lnscript, tag=小米有品_每日签到, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/youpin/youpin_checkin.lnscript, tag=小米有品_每日签到, enabled=true
 ```
 
 ### Quantumult X
@@ -25,10 +25,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obs
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/youpin/youpin_checkin.qxrewrite, tag=小米有品_获取Cookie, enabled=true
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/youpin/youpin_checkin.qxrewrite, tag=小米有品_获取Cookie, enabled=true
 
 [task_local]
-20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/obsolete/youpin/youpin_checkin.js, tag=小米有品_每日签到, enabled=true
+20 0 * * * https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/obsolete/youpin/youpin_checkin.js, tag=小米有品_每日签到, enabled=true
 ```
 
 ## 获取Cookie

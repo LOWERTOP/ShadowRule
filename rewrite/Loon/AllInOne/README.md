@@ -40,27 +40,27 @@ QuantumultX需要添加部分分流规则才能生效，具体配置请参照数
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/AllInOne/AllInOne.plugin
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rewrite/Loon/AllInOne/AllInOne.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rewrite/Loon/AllInOne/AllInOne.plugin
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AllInOne/AllInOne.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rewrite/Loon/AllInOne/AllInOne.plugin
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/AllInOne/AllInOne.plugin
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/AllInOne/AllInOne.plugin
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rewrite/Loon/AllInOne/AllInOne.plugin
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rewrite/Loon/AllInOne/AllInOne.plugin
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/AllInOne/AllInOne.plugin
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rewrite/Loon/AllInOne/AllInOne.plugin
 
 ## 子规则
 
@@ -71,13 +71,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《AllInOne》的数据来自以下链接，如与本项目的《AllInOne》规则混合使用，可能造成部分重写重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
 - https://raw.githubusercontent.com/GFBG-IT/QuantumultX/main/Advertising.conf
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/zheye/zheye.lnplugin
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/script/startup/startup.lnplugin
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
 - https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf

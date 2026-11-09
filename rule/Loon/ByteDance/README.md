@@ -35,27 +35,27 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ByteDance/ByteDance.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Loon/ByteDance/ByteDance.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Loon/ByteDance/ByteDance.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Loon/ByteDance/ByteDance.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ByteDance/ByteDance.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Loon/ByteDance/ByteDance.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ByteDance/ByteDance.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Loon/ByteDance/ByteDance.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Loon/ByteDance/ByteDance.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Loon/ByteDance/ByteDance.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ByteDance/ByteDance.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Loon/ByteDance/ByteDance.list
 
 ## 子规则/排除规则
 
@@ -74,7 +74,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《字节跳动》的数据来自以下链接，如与本项目的《字节跳动》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/ByteDance/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Douyin.yaml

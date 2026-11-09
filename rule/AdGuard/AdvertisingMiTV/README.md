@@ -33,27 +33,27 @@ https://www.zhihu.com/question/307466160
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
 
 ## 子规则/排除规则
 

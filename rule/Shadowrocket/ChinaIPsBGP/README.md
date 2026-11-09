@@ -11,7 +11,7 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-应 https://github.com/blackmatrix7/ios_rule_script/issues/365 增加的ChinaIPS规则
+应 https://github.com/LOWERTOP/ShadowRule/issues/365 增加的ChinaIPS规则
 
 原作者仓库 https://github.com/misakaio/chnroutes2
 
@@ -44,27 +44,27 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Shadowrocket/ChinaIPsBGP/ChinaIPsBGP.list
 
 ## 子规则/排除规则
 

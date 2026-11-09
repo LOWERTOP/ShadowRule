@@ -30,27 +30,27 @@ TestFlight规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TestFlight/TestFlight.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Loon/TestFlight/TestFlight.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Loon/TestFlight/TestFlight.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/Loon/TestFlight/TestFlight.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TestFlight/TestFlight.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/Loon/TestFlight/TestFlight.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/TestFlight/TestFlight.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Loon/TestFlight/TestFlight.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Loon/TestFlight/TestFlight.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/Loon/TestFlight/TestFlight.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/TestFlight/TestFlight.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/Loon/TestFlight/TestFlight.list
 
 ## 子规则/排除规则
 
@@ -61,7 +61,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《TestFlight》的数据来自以下链接，如与本项目的《TestFlight》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
+- https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/source/rule/TestFlight/TestFlight.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

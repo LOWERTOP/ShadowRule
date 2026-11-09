@@ -29,27 +29,27 @@ AmazonTrust规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/master/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://cdn.jsdelivr.net/gh/LOWERTOP/ShadowRule@release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
+https://ghproxy.com/https://raw.githubusercontent.com/LOWERTOP/ShadowRule/release/rule/QuantumultX/AmazonTrust/AmazonTrust.list
 
 ## 子规则/排除规则
 
